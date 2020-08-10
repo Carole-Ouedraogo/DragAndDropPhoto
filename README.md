@@ -1,2 +1,2 @@
 # DragAndDropPhoto
-![Demo Example](url:https://github.com/Carole-Ouedraogo/DragAndDropPhoto/edit/master/dragNdropEx.png)
+![Demo Example](https://github.com/Carole-Ouedraogo/DragAndDropPhoto/blob/master/dragNdropEx.png)
